@@ -6,8 +6,8 @@ Policy predictor backend application.
     * Flask
 
 * ### Release Note
-    * Release: 1.0.0
-    * Date: 2024/05/26
+    * Version: 1.0.0
+    * Release Date: 2024/05/26
     * Module: Policy Predictor Backend
     * Changes
         * Policy predictor backend application implemented.
